@@ -33,3 +33,30 @@ Here is a Google Map of the Eiffel Tower:
     allowfullscreen=""
     loading="lazy">
 </iframe>
+
+---
+layout: post
+title: "My Goals for Learning Jekyll"
+date: 2022-09-03 12:00:00 +0000
+categories: learning-jekyll
+---
+
+This post outlines my goals for learning Jekyll. Through this course, I aim to:
+
+- Understand the basics of static site generation using Jekyll.
+- Learn how to create and manage blog posts and pages.
+- Explore themes, layouts, and customization options.
+- Integrate additional features like Google Maps, forms, and other dynamic content.
+
+By the end of this course, I hope to have a functional personal blog or portfolio powered by Jekyll.
+
+### Custom Map of Corfu Town
+
+Here’s a custom map showing 5 points of interest around Corfu Town:
+
+<iframe
+    src="https://www.google.com/maps/d/embed?mid=1jG4kk-KA1RzcXq0hkv3ToiIF-TvtKCs&hl=en"
+    width="640"
+    height="480">
+</iframe>
+
