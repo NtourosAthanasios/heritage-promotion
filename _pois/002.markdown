@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q110630553
-title:  Κέρκυρα
+title:  Άγαλμα
 ---
 
 Sample text  
