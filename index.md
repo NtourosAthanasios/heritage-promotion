@@ -4,3 +4,5 @@
 
 layout: home
 ---
+{% include slider.html %}
+παο

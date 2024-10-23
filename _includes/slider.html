@@ -1,0 +1,37 @@
+<!-- _includes/slider.html -->
+<div class="slider-container">
+    <div class="slider">
+      <div class="slide">
+        <img src="/assets/images/Corfu1.png" alt="Slide 1">
+      </div>
+      <div class="slide">
+        <img src="/assets/images/corfu2.png" alt="Slide 2">
+      </div>
+      <div class="slide">
+        <img src="/assets/images/corfu3.png" alt="Slide 3">
+      </div>
+    </div>
+  </div>
+  
+  <style>
+    .slider-container {
+      width: 100%;
+      overflow: hidden;
+    }
+  
+    .slider {
+      display: flex;
+      transition: transform 0.5s ease-in-out;
+    }
+  
+    .slide {
+      min-width: 100%;
+      box-sizing: border-box;
+    }
+  
+    .slide img {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+  
