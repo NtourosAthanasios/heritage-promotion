@@ -2,6 +2,7 @@
 layout: page
 title: "Map"
 permalink: /map/
+background: heritage-promotion/assets/images/Corfu4.png
 ---
 <div class="img">
     <img src= "/heritage-promotion/assets/images/Corfu4.png" style="width: 100%;">
