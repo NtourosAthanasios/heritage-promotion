@@ -2,6 +2,7 @@
 layout: page
 title: "Map"
 permalink: /map/
+background: '/assets/images/corfu2.png'
 ---
 <div class="map-container">
   <iframe src="https://www.google.com/maps/d/embed?mid=1jG4kk-KA1RzcXq0hkv3ToiIF-TvtKCs&ehbc=2E312F" width="640" height="480"></iframe>
@@ -14,4 +15,5 @@ permalink: /map/
   margin: 20px; 
 }
 
+  
 </style>
