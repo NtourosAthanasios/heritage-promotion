@@ -20,39 +20,27 @@ permalink: /pois/
 <style>
 .pois-container {
   display: flex;
-  flex-wrap: wrap; /* Να επιτρέπεται η αλλαγή γραμμών */
-  justify-content: space-around; /* Ισομερή διάταξη */
-  padding: 20px; /* Εσωτερικό περιθώριο */
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px; 
 }
 
 .poi-box {
-  background-color: #f0f0f0; /* Χρώμα φόντου */
-  border: 1px solid #ccc; /* Περιθώριο */
-  border-radius: 8px; /* Στρογγυλεμένες γωνίες */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Σκιά */
-  margin: 10px; /* Εξωτερικό περιθώριο */
-  padding: 15px; /* Εσωτερικό περιθώριο */
-  width: 30%; /* Πλάτος του box */
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Μετάβαση για hover effect */
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 8px; 
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 10px; 
+  padding: 15px; 
+  width: 30%; 
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
 
 .poi-box:hover {
-  transform: scale(1.05); /* Μεγέθυνση στο hover */
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Αυξημένη σκιά στο hover */
+  transform: scale(1.05);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.poi-box a {
-  text-decoration: none; /* Αφαίρεση υπογράμμισης */
-  color: #333; /* Χρώμα κειμένου */
-}
-
-.poi-box h3 {
-  margin: 0 0 10px; /* Περιθώριο κάτω */
-}
-
-.poi-box p {
-  margin: 0; /* Μηδενικό περιθώριο */
-}
 </style>
 
 

@@ -32,7 +32,6 @@ third_img: assets/images/corfu3.png
     const slides = document.querySelectorAll('.slide');
     const totalSlides = slides.length;
 
-    // Wrap around the index
     if (index >= totalSlides) {
       currentIndex = 0;
     } else if (index < 0) {
@@ -41,8 +40,7 @@ third_img: assets/images/corfu3.png
       currentIndex = index;
     }
 
-    // Calculate the offset
-    const offset = -currentIndex * 100; // -100% for each slide
+    const offset = -currentIndex * 100; 
     document.querySelector('.slider').style.transform = `translateX(${offset}%)`;
   }
 
@@ -50,7 +48,6 @@ third_img: assets/images/corfu3.png
     showSlide(currentIndex + step);
   }
 
-  // Show the first slide initially
   showSlide(currentIndex);
 </script>
 
@@ -68,13 +65,13 @@ third_img: assets/images/corfu3.png
   }
 
   .slide {
-    min-width: 100%; /* Each slide takes up the full container */
+    min-width: 100%;
     box-sizing: border-box;
   }
 
   .slide img {
     width: 100%;
-    height: auto; /* Ensures images scale correctly */
+    height: auto; 
   }
 
   .prev, .next {
@@ -86,7 +83,7 @@ third_img: assets/images/corfu3.png
     cursor: pointer;
     padding: 10px;
     font-size: 18px;
-    z-index: 10; /* Make sure buttons are on top */
+    z-index: 10; 
   }
 
   .prev {

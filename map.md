@@ -10,11 +10,8 @@ permalink: /map/
 <style>
 .map-container {
   display: flex;
-  justify-content: center; /* Center the iframe */
-  margin: 20px; /* Add some margin around */
+  justify-content: center;
+  margin: 20px; 
 }
 
-iframe {
-  border: 0; /* Remove default border */
-}
 </style>
