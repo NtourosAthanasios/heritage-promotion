@@ -2,10 +2,9 @@
 layout: page
 title: "Map"
 permalink: /map/
-third_img: assets/images/Corfu4.png
 ---
 <div class="img">
-    <img src="{{ page.third_img }}" alt="Corfu 1">
+    <img src="{{ page.background }}" alt="Corfu">
 </div>
 
 <div class="map-container">
