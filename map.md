@@ -4,7 +4,7 @@ title: "Map"
 permalink: /map/
 ---
 <div class="img">
-    <img src="{{ page.background }}" alt="Corfu">
+    <img src= "/heritage-promotion/assets/images/corfu2.png" style="width: 80%; height: 5%;">
 </div>
 
 <div class="map-container">
