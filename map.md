@@ -4,7 +4,7 @@ title: "Map"
 permalink: /map/
 ---
 <div class="img">
-    <img src= "/heritage-promotion/assets/images/corfu2.png" style="width: 100%; height: 50%;">
+    <img src= "/heritage-promotion/assets/images/Corfu4.png" style="width: 100%;>
 </div>
 
 <div class="map-container">
