@@ -6,3 +6,5 @@ layout: home
 ---
 {% include slider.html %}
 παο
+
+top_img: assets/images/Corfu1.png
