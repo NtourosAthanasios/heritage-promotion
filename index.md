@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
----
-{% include slider.html %}
-παο
-
 top_img: assets/images/Corfu1.png
+---
+
+
