@@ -11,13 +11,13 @@ third_img: assets/images/corfu3.png
 <div class="slider-container">
   <div class="slider">
     <div class="slide">
-      <img src="{{ site.baseurl }}/{{ page.top_img }}" alt="Corfu 1">
+      <img src="{{ page.top_img }}" alt="Corfu 1">
     </div>
     <div class="slide">
-      <img src="{{ site.baseurl }}/{{ page.second_img }}" alt="Corfu 2">
+      <img src="{{ page.second_img }}" alt="Corfu 2">
     </div>
     <div class="slide">
-      <img src="{{ site.baseurl }}/{{ page.third_img }}" alt="Corfu 3">
+      <img src="{{ page.third_img }}" alt="Corfu 3">
     </div>
   </div>
 </div>
