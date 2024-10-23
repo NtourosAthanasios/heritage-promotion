@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130619199
-title:  Κέρκυρα
+title:  Gerald Durrell
 ---
 
 Sample text  

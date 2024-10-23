@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130614780
-title:  Κέρκυρα
+title:  Γεώργιος Θεοτόκης
 ---
 
 Sample text  

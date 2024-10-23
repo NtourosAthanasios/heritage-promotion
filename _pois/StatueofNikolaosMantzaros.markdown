@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130614708
-title:  Κέρκυρα
+title:  Νικόλαος Μάντζαρος
 ---
 
 Sample text  

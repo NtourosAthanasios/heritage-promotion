@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130614014
-title:  Κέρκυρα
+title:  Λορέντζος Μαβίλης
 ---
 
 Sample text  

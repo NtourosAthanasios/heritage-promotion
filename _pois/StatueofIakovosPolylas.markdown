@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130614788
-title:  Κέρκυρα
+title:  Ιάκωβος Πολυλάς
 ---
 
 Sample text 

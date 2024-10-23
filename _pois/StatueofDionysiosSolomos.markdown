@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130619103
-title:  Κέρκυρα
+title:  Διονύσιος Σολωμός
 ---
 
 Sample text 

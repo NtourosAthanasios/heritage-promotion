@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130614732
-title:  Κέρκυρα
+title:  Κώστας Γεωργάκης
 ---
 
 Sample text  

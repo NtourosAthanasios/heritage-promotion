@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130619144
-title:  Κέρκυρα
+title:  Friderick Guilford
 ---
 
 Sample text 

@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130619023
-title:  Κέρκυρα
+title:  Ιωάννης Καποδίστριας
 ---
 
 Sample text 
