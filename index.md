@@ -6,12 +6,8 @@ layout: home
 top_img: assets/images/Corfu1.png
 second_img: assets/images/corfu2.png
 third_img: assets/images/corfu3.png
+background: '/assets/images/corfu3.png
 ---
-<div>
-    <img src="{{ page.top_img }}" alt="Corfu 1" style="width: 100%; height: 100px; object-fit: cover;">
-</div>
-
-
 <div class="slider-container">
   <div class="slider">
     <div class="slide">
