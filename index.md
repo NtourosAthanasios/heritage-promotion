@@ -56,7 +56,7 @@ background: assets/images/Corfu4.png
 <style>
   .slider-container {
     position: relative;
-    max-width: 100%; /* Adjust this for your design */
+    max-width: 100%;
     overflow: hidden;
   }
 
